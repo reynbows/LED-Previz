@@ -16,7 +16,7 @@ On the "Panel" component, you have the option of viewing either the file you've 
 
 The idea behind this is that, while we want our Geo to look SUPER COOL in the render, we also need to keep in mind that its ultimate destination is a 32x32 LED panel, which looks SUPER COOL under different circumstances than our render. For this reason, we want the option of previzualising the geometry on the panel before we actually make the recording.
 
-Please note! This project was initially compiled using TouchDesigner 99.2019.30550. This package includes two versions - GeoLED_sb is the stable build version, made using TouchDesigner 99.2019.18580. 
+Please note! This project was initially compiled using TouchDesigner 99.2019.30550. This package includes two versions - GeoLED_stable is the stable build version, made using TouchDesigner 99.2019.18580. GeoLED_experimental was made on the experimental build (TouchDesigner 99.2019.30550).
 
 Enjoy exploring! Feel free to reach out with any questions/comments/additions/improvments!
 
